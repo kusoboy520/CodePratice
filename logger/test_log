@@ -1,0 +1,8 @@
+[CRITICAL]2022-09-12 14:50:38,918 log.py:24: get logger
+[DEBUG]2022-09-12 14:50:38,918 A.py:4: this is A
+[CRITICAL]2022-09-12 14:50:40,937 log.py:24: get logger
+[DEBUG]2022-09-12 14:50:40,938 A.py:4: this is A
+[CRITICAL]2022-09-12 14:50:40,941 log.py:24: get logger
+[DEBUG]2022-09-12 14:50:40,941 B.py:5: this is B
+[CRITICAL]2022-09-12 14:50:43,953 log.py:24: get logger
+[WARNING]2022-09-12 14:50:43,953 C.py:4: this is C
