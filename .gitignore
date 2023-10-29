@@ -1,1 +1,5 @@
 archive
+other/
+.vscode/
+.venv/
+.ipynb_checkpoints*
