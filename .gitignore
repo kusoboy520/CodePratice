@@ -3,3 +3,10 @@ other/
 .vscode/
 .venv/
 .ipynb_checkpoints*
+DataEngineer/ny_taxi_postgres_data/
+DataEngineer/terraform_demo/
+DataEngineer/data/
+DataEngineer/Docker_Postgresql/data/
+*.csv
+*.gz
+*.parquet
