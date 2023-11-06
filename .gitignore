@@ -2,6 +2,7 @@ archive
 other/
 .vscode/
 .venv/
+venv/
 .ipynb_checkpoints*
 DataEngineer/ny_taxi_postgres_data/
 DataEngineer/terraform_demo/
@@ -10,3 +11,7 @@ DataEngineer/Docker_Postgresql/data/
 *.csv
 *.gz
 *.parquet
+DataEngineer/google-cloud-sdk/
+advance-airline-400214-9e6c10ed4334.json
+.python-version
+DataEngineer/.DS_Store
